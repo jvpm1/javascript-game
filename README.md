@@ -35,11 +35,11 @@ git clone https://github.com/jvpm1/jsgame.git
 
 #### ver 1.1 alpha
 
-![Video](files/gameplay_ver1.1.mp4)
+https://files.catbox.moe/pkmglq.mp4
 
 #### ver 0.1
 
-![Video](files/gameplay_ver0.1.mp4)
+https://files.catbox.moe/0ahleo.mp4
 
 ### Picture(s)
 
